@@ -17,7 +17,7 @@ icon: "warning"
 
 Reflection 整合包中的所有模组、资源包和着色器均由各自的作者和开发者提供。Reflection 整合包尊重并遵循这些内容的原始许可证。对于整合包中包含的任何模组或资源，Reflection 整合包不具备所有权，也不对其性能或可能产生的任何问题负责。
 
-如果您对整合包中的任何内容有疑问，请通过以下方式联系作者：`miku@ecy,pink`。
+如果您对整合包中的任何内容有疑问，请通过以下方式联系作者：`miku@ecy.pink`。
 
 | 资源                  | 作者                           | 许可证           | 链接                                                            |
 | --------------------- | ------------------------------ | ---------------- | --------------------------------------------------------------- |
@@ -47,7 +47,7 @@ By using this modpack, you agree to the following terms:
 
 All mods, resource packs, and shaders within the Reflection modpack have been generously provided by their respective creators and developers. The Reflection modpack strictly adheres to the original licensing agreements for all included content. The modpack does not claim ownership of any mod or resource included and is not responsible for their performance or any issues that may arise.
 
-If you have any questions about the contents of the modpack, please contact the author at `miku@ecy,pink`.
+If you have any questions about the contents of the modpack, please contact the author at `miku@ecy.pink`.
 
 | Resource              | Author                         | License          | Link                                                            |
 | --------------------- | ------------------------------ | ---------------- | --------------------------------------------------------------- |
