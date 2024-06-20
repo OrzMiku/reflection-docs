@@ -19,14 +19,14 @@ Reflection 整合包中的所有模组、资源包和着色器均由各自的作
 
 如果您对整合包中的任何内容有疑问，请通过以下方式联系作者：`miku@ecy.pink`。
 
-| 资源                  | 作者                           | 许可证                                              | 链接                                                            |
-| --------------------- | ------------------------------ | --------------------------------------------------- | --------------------------------------------------------------- |
-| Complementary Shaders | EminGT                         | Custom                                              | [官方网站](https://www.complementary.dev/shaders/)              |
-| Photon Shader         | sixthsurge                     | MIT                                                 | [GitHub](https://github.com/sixthsurge/photon)                  |
-| Bliss Shader          | X0nk                           | Custom                                              | [GitHub](https://github.com/X0nk/Bliss-Shader)                  |
-| Fast Better Grass     | robotkoer/Fabulously Optimized | MIT                                                 | [Modrinth](https://modrinth.com/resourcepack/fast-better-grass) |
-| SPBR                  | ShulkerSakura                  | GPL-3.0-or-later                                    | [Modrinth](https://modrinth.com/resourcepack/spbr)              |
-| Stay True             | haimcyfly                      | ARR(Allow the modpack to include this resourcepack) | [Modrinth](https://modrinth.com/resourcepack/spbr)              |
+| 资源                  | 作者                           | 许可证                                              | 链接                                                                     |
+| --------------------- | ------------------------------ | --------------------------------------------------- | ------------------------------------------------------------------------ |
+| Complementary Shaders | EminGT                         | Custom                                              | [官方网站](https://www.complementary.dev/shaders/)                       |
+| Photon Shader         | sixthsurge                     | MIT                                                 | [GitHub](https://github.com/sixthsurge/photon)                           |
+| Bliss Shader          | X0nk                           | Custom                                              | [GitHub](https://github.com/X0nk/Bliss-Shader)                           |
+| Fast Better Grass     | robotkoer/Fabulously Optimized | MIT                                                 | [Modrinth](https://modrinth.com/resourcepack/fast-better-grass)          |
+| SPBR                  | ShulkerSakura                  | GPL-3.0-or-later                                    | [Modrinth](https://modrinth.com/resourcepack/spbr)                       |
+| Stay True             | haimcyfly                      | ARR(Allow the modpack to include this resourcepack) | [Modrinth](https://www.curseforge.com/minecraft/texture-packs/stay-true) |
 
 ## Terms of Use 📜
 
@@ -50,11 +50,11 @@ All mods, resource packs, and shaders within the Reflection modpack have been ge
 
 If you have any questions about the contents of the modpack, please contact the author at `miku@ecy.pink`.
 
-| Resource              | Author                         | License                                             | Link                                                            |
-| --------------------- | ------------------------------ | --------------------------------------------------- | --------------------------------------------------------------- |
-| Complementary Shaders | EminGT                         | Custom                                              | [Official Website](https://www.complementary.dev/shaders/)      |
-| Photon Shader         | sixthsurge                     | MIT                                                 | [GitHub](https://github.com/sixthsurge/photon)                  |
-| Bliss Shader          | X0nk                           | Custom                                              | [GitHub](https://github.com/X0nk/Bliss-Shader)                  |
-| Fast Better Grass     | robotkoer/Fabulously Optimized | MIT                                                 | [Modrinth](https://modrinth.com/resourcepack/fast-better-grass) |
-| SPBR                  | ShulkerSakura                  | GPL-3.0-or-later                                    | [Modrinth](https://modrinth.com/resourcepack/spbr)              |
-| Stay True             | haimcyfly                      | ARR(Allow the modpack to include this resourcepack) | [Modrinth](https://modrinth.com/resourcepack/spbr)              |
+| Resource              | Author                         | License                                             | Link                                                                     |
+| --------------------- | ------------------------------ | --------------------------------------------------- | ------------------------------------------------------------------------ |
+| Complementary Shaders | EminGT                         | Custom                                              | [Official Website](https://www.complementary.dev/shaders/)               |
+| Photon Shader         | sixthsurge                     | MIT                                                 | [GitHub](https://github.com/sixthsurge/photon)                           |
+| Bliss Shader          | X0nk                           | Custom                                              | [GitHub](https://github.com/X0nk/Bliss-Shader)                           |
+| Fast Better Grass     | robotkoer/Fabulously Optimized | MIT                                                 | [Modrinth](https://modrinth.com/resourcepack/fast-better-grass)          |
+| SPBR                  | ShulkerSakura                  | GPL-3.0-or-later                                    | [Modrinth](https://modrinth.com/resourcepack/spbr)                       |
+| Stay True             | haimcyfly                      | ARR(Allow the modpack to include this resourcepack) | [Modrinth](https://www.curseforge.com/minecraft/texture-packs/stay-true) |
