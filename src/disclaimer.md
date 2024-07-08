@@ -24,6 +24,7 @@ Reflection 整合包中的所有模组、资源包和着色器均由各自的作
 | Complementary Shaders | EminGT                         | Custom                                              | [官方网站](https://www.complementary.dev/shaders/)                       |
 | Photon Shader         | sixthsurge                     | MIT                                                 | [GitHub](https://github.com/sixthsurge/photon)                           |
 | Bliss Shader          | X0nk                           | Custom                                              | [GitHub](https://github.com/X0nk/Bliss-Shader)                           |
+| Sundial Lite          | GeForceLegend                  | GPL-3.0                                             | [GitHub](https://github.com/GeForceLegend/Sundial-Lite)                  |
 | Fast Better Grass     | robotkoer/Fabulously Optimized | MIT                                                 | [Modrinth](https://modrinth.com/resourcepack/fast-better-grass)          |
 | SPBR                  | ShulkerSakura                  | GPL-3.0-or-later                                    | [Modrinth](https://modrinth.com/resourcepack/spbr)                       |
 | Stay True             | haimcyfly                      | ARR(Allow the modpack to include this resourcepack) | [Modrinth](https://www.curseforge.com/minecraft/texture-packs/stay-true) |
@@ -55,6 +56,7 @@ If you have any questions about the contents of the modpack, please contact the 
 | Complementary Shaders | EminGT                         | Custom                                              | [Official Website](https://www.complementary.dev/shaders/)               |
 | Photon Shader         | sixthsurge                     | MIT                                                 | [GitHub](https://github.com/sixthsurge/photon)                           |
 | Bliss Shader          | X0nk                           | Custom                                              | [GitHub](https://github.com/X0nk/Bliss-Shader)                           |
+| Sundial Lite          | GeForceLegend                  | GPL-3.0                                             | [GitHub](https://github.com/GeForceLegend/Sundial-Lite)                  |
 | Fast Better Grass     | robotkoer/Fabulously Optimized | MIT                                                 | [Modrinth](https://modrinth.com/resourcepack/fast-better-grass)          |
 | SPBR                  | ShulkerSakura                  | GPL-3.0-or-later                                    | [Modrinth](https://modrinth.com/resourcepack/spbr)                       |
 | Stay True             | haimcyfly                      | ARR(Allow the modpack to include this resourcepack) | [Modrinth](https://www.curseforge.com/minecraft/texture-packs/stay-true) |
