@@ -8,6 +8,14 @@ order: 1
 以下是 Reflection 整合包安装到各个启动器的方法。笔者没有办法列出所有受支持的启动器，但大多数的现代启动器应该都支持安装。
 :::
 
+::: warning 注意
+
+版本号中带有Fabric_OF的版本，表示该版本使用了 OptiFabric。由于 OptiFine 的版权问题，Reflection 整合包不会嵌入 OptiFine，需要自行下载安装，放入 `mods` 文件夹。
+
+OptiFine 下载地址：[OptiFine](https://optifine.net/downloads)。
+
+:::
+
 ## 通过 [HMCL](https://ci.huangyuhui.net/job/HMCL/) 启动器安装
 
 ::: tip 小建议
